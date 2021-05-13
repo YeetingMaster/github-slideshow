@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our slide!"
 ---
-Yeet
+Peekaboo!
 Use the left arrow to go back!
